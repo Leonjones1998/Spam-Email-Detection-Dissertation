@@ -1,6 +1,6 @@
 # Spam-Email-Detection-Dissertation
 
-The my final year dissertation project where created a Naive Bayes spam email detection model and intergrated it into a django web framework.
+My final year dissertation project where created a Naive Bayes spam email detection model and intergrated it into a django web framework.
 
 Programming languages used – Python, JavaScript, HTML, CSS.
 
